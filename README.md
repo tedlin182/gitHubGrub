@@ -5,8 +5,7 @@ A brief overview of the opportunity and need for the "github for food recipes" i
 ## What problem does this solve? (Value Prop)
 * Cooks want to be able to get ideas of how they can tweak an existing recipe
 * Cooks want to be able to record different experiments to see if it worked
-
-When it comes to recipes, cooks don't know which specific recipe to start from
+* Cooks want some validation when it comes to a new dish
 
 ## For whom do we solve that problem (Target User)
 * Amateur Cook: Help them get started on a recipe that is crowdsourced. Help 
