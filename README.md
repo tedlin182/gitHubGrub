@@ -3,14 +3,14 @@
 A brief overview of the opportunity and need for the "github for food recipes" idea. Be the "github" for food recipes. Allow users to find the core base of any given recipe and trace the differences in ingredient clusters/amounts. Users are able to try or create "branches" of a recipe to share.
 
 ## What problem does this solve? (Value Prop)
-Cooks want to be able to get ideas of how they can tweak an existing recipe
-\nCooks want to be able to record different experiments to see if it worked
+* Cooks want to be able to get ideas of how they can tweak an existing recipe
+* Cooks want to be able to record different experiments to see if it worked
 
 When it comes to recipes, cooks don't know which specific recipe to start from
 
 ## For whom do we solve that problem (Target User)
-Amateur Cook
-Professional Chef
+* Amateur Cook: Help them get started on a recipe that is crowdsourced. Help 
+* Professional Chef: Help them find innovative/long forgotten ingredient combinations
 
 ## What are the alternatives? (Competition)
 Trusted Advisor: Go to a select few trusted sources (foodnetwork.com for the base recipe)
